@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/logo.svg" alt="Logo" width="200"/>
+  <img src="./public/logo.svg" alt="Logo" width="200"/>
   <h1>Three Questions AI</h1>
 </div>
 
@@ -20,21 +20,21 @@ This project utilizes the following technologies and libraries:
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/evanlong0926/three-questions-ai.git
-   ```
+```bash
+git clone https://github.com/evanlong0926/three-questions-ai.git
+```
 
 2. Navigate to the project directory:
 
-  ```bash
-  cd three-questions-ai
-  ```
+```bash
+cd three-questions-ai
+```
 
 3. Install the required dependencies:
 
-   ```bash
-   pnpm install
-   ```
+```bash
+pnpm install
+```
 
 ## Usage
 
