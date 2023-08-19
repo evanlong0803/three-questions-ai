@@ -9,9 +9,7 @@ import { useTripleQuestionMarks } from '@/hooks'
 
 export function Home() {
   const [value, setValue] = useState('')
-  const [openaiKey, setOpenaiKey] = useState(
-    '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'
-  )
+  const [openaiKey, setOpenaiKey] = useState('')
   const [loading, setLoading] = useState(false)
 
   const openai = new OpenAI({
