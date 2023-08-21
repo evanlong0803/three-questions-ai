@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/logo.svg" alt="Logo" width="200"/>
+  <img src="./public/logo.svg" alt="Logo" width="100"/>
   <h1>Three Questions AI</h1>
 </div>
 
@@ -82,7 +82,3 @@ git push origin feature/your-feature-name
 4. Create a pull request from your branch to the main repository.
 
 5. Our team will review your pull request and provide feedback.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
